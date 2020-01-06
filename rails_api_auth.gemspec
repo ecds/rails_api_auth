@@ -17,5 +17,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency('bcrypt', '~> 3.1.7')
   s.add_dependency('httparty', '~> 0.13.3')
-  s.add_dependency('rails', '>= 3.2.6', '< 6')
+  s.add_dependency('rails', '>= 3.2.6', '< 7')
 end
